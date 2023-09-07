@@ -4,7 +4,7 @@
 </a>
 
 ### 👋 Hi, It's Chef
-I'm a FE coder.
+I'm a FE coder. ![1.gif](http://img.cdn.1zdz.cn/github/1x1.gif?page=GithubHome)
 
 ![](https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=fff)
 ![](https://img.shields.io/badge/-React-20232a?style=flat-square&logo=React&logoColor=#61dafb)
@@ -17,5 +17,3 @@ I'm a FE coder.
 - Marathon🏃
 - Fishing🐟
 - OSU! 🎮
-
-![1.gif](http://img.cdn.1zdz.cn/github/1x1.gif?page=GithubHome)
