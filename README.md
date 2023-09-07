@@ -1,13 +1,3 @@
-<script>
-var _hmt = _hmt || [];
-(function() {
-  var hm = document.createElement("script");
-  hm.src = "https://hm.baidu.com/hm.js?9f2c975df8ced12378bca98e643295d7";
-  var s = document.getElementsByTagName("script")[0]; 
-  s.parentNode.insertBefore(hm, s);
-})();
-</script>
-
 
 <a href="#">
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Chef5&show_icons=true&hide_border=true&icon_color=586069&title_color=4c71f2">
@@ -27,3 +17,5 @@ I'm a FE coder.
 - Marathon🏃
 - Fishing🐟
 - OSU! 🎮
+
+![1.gif](http://img.cdn.1zdz.cn/github/1x1.gif?page=GithubHome)
