@@ -17,3 +17,5 @@ I'm a FE coder. ![1.gif](http://img.cdn.1zdz.cn/github/1x1.gif?page=GithubHome)
 - Marathon🏃
 - Fishing🐟
 - OSU! 🎮
+
+![](https://komarev.com/ghpvc/?username=Chef5&color=lightgrey&label=Views)
